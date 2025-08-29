@@ -12,6 +12,23 @@
         { "beat": 33, "seg": 3, "button": 8 },
         { "beat": 41, "seg": 3, "button": 0 }
       ]
+    },
+    {
+      "level": 2,
+      "notes": [
+        { "beat": 1, "seg": 1, "button": 8 },
+        { "beat": 5, "seg": 1, "button": 0 },
+        { "beat": 9, "seg": 2, "button": 8 },
+        { "beat": 13, "seg": 2, "button": 0 },
+        { "beat": 17, "seg": 3, "button": 8 },
+        { "beat": 21, "seg": 3, "button": 0 },
+        { "beat": 25, "seg": 4, "button": 8 },
+        { "beat": 29, "seg": 4, "button": 0 },
+        { "beat": 33, "seg": 5, "button": 8 },
+        { "beat": 37, "seg": 5, "button": 0 },
+        { "beat": 41, "seg": 6, "button": 8 },
+        { "beat": 45, "seg": 6, "button": 0 }
+      ]
     }
   ]
 }
