@@ -1,0 +1,16 @@
+[
+  {
+    "id": "twinkle-star",
+    "title": "Twinkle, Twinkle, Little Star",
+    "artist": "Traditional",
+    "duration": 30,
+    "directory": "twinkle-twinkle-little-star"
+  },
+  {
+    "id": "mary-lamb",
+    "title": "Mary Had a Little Lamb",
+    "artist": "Traditional",
+    "duration": 25,
+    "directory": "mary-had-a-little-lamb"
+  }
+]

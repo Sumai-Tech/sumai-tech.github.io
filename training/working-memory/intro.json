@@ -1,0 +1,39 @@
+{
+  "title": "Intro",
+  "song": "drum",
+  "levels": [
+    {
+      "level": 1,
+      "notes": [
+        {
+          "beat": 0,
+          "message": "教学开始..."
+        },
+        {
+          "beat": 1,
+          "seg": 1,
+          "button": 8,
+          "message": "记住正在亮起的按钮..."
+        },
+        {
+          "beat": 5,
+          "seg": 1,
+          "button": 0,
+          "message": "现在拍击刚才亮起的按钮"
+        },
+        {
+          "beat": 9,
+          "seg": 2,
+          "button": 8,
+          "message": "记住正在亮起的按钮..."
+        },
+        {
+          "beat": 13,
+          "seg": 2,
+          "button": 0,
+          "message": "现在拍击刚才亮起的按钮"
+        }
+      ]
+    }
+  ]
+}

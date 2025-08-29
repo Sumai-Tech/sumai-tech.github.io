@@ -1,0 +1,182 @@
+{
+  "id": "mary-lamb",
+  "title": "Mary Had a Little Lamb",
+  "artist": "Traditional",
+  "duration": 25,
+  "lyrics": [
+    {
+      "time": 0,
+      "text": "Mary had a little lamb"
+    },
+    {
+      "time": 4,
+      "text": "Little lamb, little lamb"
+    },
+    {
+      "time": 8,
+      "text": "Mary had a little lamb"
+    },
+    {
+      "time": 12,
+      "text": "Its fleece was white as snow"
+    }
+  ],
+  "notes": [
+    {
+      "time": 0,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 0.5,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 1,
+      "note": "C",
+      "duration": 0.5,
+      "buttonIndex": 1
+    },
+    {
+      "time": 1.5,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 2,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 2.5,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 3,
+      "note": "E",
+      "duration": 1,
+      "buttonIndex": 3
+    },
+    {
+      "time": 4,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 4.5,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 5,
+      "note": "D",
+      "duration": 1,
+      "buttonIndex": 2
+    },
+    {
+      "time": 6,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 6.5,
+      "note": "G",
+      "duration": 0.5,
+      "buttonIndex": 5
+    },
+    {
+      "time": 7,
+      "note": "G",
+      "duration": 1,
+      "buttonIndex": 5
+    },
+    {
+      "time": 8,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 8.5,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 9,
+      "note": "C",
+      "duration": 0.5,
+      "buttonIndex": 1
+    },
+    {
+      "time": 9.5,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 10,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 10.5,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 11,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 11.5,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 12,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 12.5,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 13,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 13.5,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 14,
+      "note": "C",
+      "duration": 2,
+      "buttonIndex": 1
+    }
+  ]
+}

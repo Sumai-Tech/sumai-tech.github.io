@@ -1,0 +1,120 @@
+{
+  "id": "twinkle-star",
+  "title": "Twinkle, Twinkle, Little Star",
+  "artist": "Traditional",
+  "bpm": 100,
+  "firstBeatTime": 1.5,
+  "duration": 30,
+  "lyrics": [
+    {
+      "time": 0,
+      "text": "Twinkle, twinkle, little star"
+    },
+    {
+      "time": 4,
+      "text": "How I wonder what you are"
+    },
+    {
+      "time": 8,
+      "text": "Up above the world so high"
+    },
+    {
+      "time": 12,
+      "text": "Like a diamond in the sky"
+    },
+    {
+      "time": 16,
+      "text": "Twinkle, twinkle, little star"
+    },
+    {
+      "time": 20,
+      "text": "How I wonder what you are"
+    }
+  ],
+  "notes": [
+    {
+      "time": 0,
+      "note": "C",
+      "duration": 0.5,
+      "buttonIndex": 1
+    },
+    {
+      "time": 0.5,
+      "note": "C",
+      "duration": 0.5,
+      "buttonIndex": 1
+    },
+    {
+      "time": 1,
+      "note": "G",
+      "duration": 0.5,
+      "buttonIndex": 5
+    },
+    {
+      "time": 1.5,
+      "note": "G",
+      "duration": 0.5,
+      "buttonIndex": 5
+    },
+    {
+      "time": 2,
+      "note": "A",
+      "duration": 0.5,
+      "buttonIndex": 6
+    },
+    {
+      "time": 2.5,
+      "note": "A",
+      "duration": 0.5,
+      "buttonIndex": 6
+    },
+    {
+      "time": 3,
+      "note": "G",
+      "duration": 1,
+      "buttonIndex": 5
+    },
+    {
+      "time": 4,
+      "note": "F",
+      "duration": 0.5,
+      "buttonIndex": 4
+    },
+    {
+      "time": 4.5,
+      "note": "F",
+      "duration": 0.5,
+      "buttonIndex": 4
+    },
+    {
+      "time": 5,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 5.5,
+      "note": "E",
+      "duration": 0.5,
+      "buttonIndex": 3
+    },
+    {
+      "time": 6,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 6.5,
+      "note": "D",
+      "duration": 0.5,
+      "buttonIndex": 2
+    },
+    {
+      "time": 7,
+      "note": "C",
+      "duration": 1,
+      "buttonIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "title": "Twinkle, Twinkle, Little Star",
+  "song": "twinkle-twinkle-little-star",
+  "levels": [
+    {
+      "level": 1,
+      "notes": [
+        {
+          "beat": 1,
+          "button": "rnd"
+        },
+        {
+          "beat": 9,
+          "button": "rnd"
+        },
+        {
+          "beat": 17,
+          "button": "rnd"
+        },
+        {
+          "beat": 25,
+          "button": "rnd"
+        },
+        {
+          "beat": 33,
+          "button": "rnd"
+        },
+        {
+          "beat": 41,
+          "button": "rnd"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "notes": [
+        {
+          "beat": 1,
+          "button": "rnd"
+        },
+        {
+          "beat": 5,
+          "button": "rnd"
+        },
+        {
+          "beat": 9,
+          "button": "rnd"
+        },
+        {
+          "beat": 13,
+          "button": "rnd"
+        },
+        {
+          "beat": 17,
+          "button": "rnd"
+        },
+        {
+          "beat": 21,
+          "button": "rnd"
+        },
+        {
+          "beat": 25,
+          "button": "rnd"
+        },
+        {
+          "beat": 29,
+          "button": "rnd"
+        },
+        {
+          "beat": 33,
+          "button": "rnd"
+        },
+        {
+          "beat": 37,
+          "button": "rnd"
+        },
+        {
+          "beat": 41,
+          "button": "rnd"
+        },
+        {
+          "beat": 45,
+          "button": "rnd"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "notes": [
+        {
+          "beat": 1,
+          "button": "rnd"
+        },
+        {
+          "beat": 3,
+          "button": "rnd"
+        },
+        {
+          "beat": 5,
+          "button": "rnd"
+        },
+        {
+          "beat": 7,
+          "button": "rnd"
+        },
+        {
+          "beat": 9,
+          "button": "rnd"
+        },
+        {
+          "beat": 11,
+          "button": "rnd"
+        },
+        {
+          "beat": 13,
+          "button": "rnd"
+        },
+        {
+          "beat": 15,
+          "button": "rnd"
+        },
+        {
+          "beat": 17,
+          "button": "rnd"
+        },
+        {
+          "beat": 19,
+          "button": "rnd"
+        },
+        {
+          "beat": 21,
+          "button": "rnd"
+        },
+        {
+          "beat": 23,
+          "button": "rnd"
+        },
+        {
+          "beat": 25,
+          "button": "rnd"
+        },
+        {
+          "beat": 27,
+          "button": "rnd"
+        },
+        {
+          "beat": 29,
+          "button": "rnd"
+        },
+        {
+          "beat": 31,
+          "button": "rnd"
+        },
+        {
+          "beat": 33,
+          "button": "rnd"
+        },
+        {
+          "beat": 35,
+          "button": "rnd"
+        },
+        {
+          "beat": 37,
+          "button": "rnd"
+        },
+        {
+          "beat": 39,
+          "button": "rnd"
+        },
+        {
+          "beat": 41,
+          "button": "rnd"
+        },
+        {
+          "beat": 43,
+          "button": "rnd"
+        },
+        {
+          "beat": 45,
+          "button": "rnd"
+        },
+        {
+          "beat": 47,
+          "button": "rnd"
+        }
+      ]
+    }
+  ]
+}

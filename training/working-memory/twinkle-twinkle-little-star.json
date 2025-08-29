@@ -1,0 +1,17 @@
+{
+  "title": "Twinkle, Twinkle, Little Star",
+  "song": "twinkle-twinkle-little-star",
+  "levels": [
+    {
+      "level": 1,
+      "notes": [
+        { "beat": 1, "seg": 1, "button": 8 },
+        { "beat": 9, "seg": 1, "button": 0 },
+        { "beat": 17, "seg": 2, "button": 8 },
+        { "beat": 25, "seg": 2, "button": 0 },
+        { "beat": 33, "seg": 3, "button": 8 },
+        { "beat": 41, "seg": 3, "button": 0 }
+      ]
+    }
+  ]
+}
